@@ -8,9 +8,7 @@ var no_coin = function(){
     nodo_login.insertBefore(n_span, nodo_ingresar);
     nodo_ingresar.classList.remove("mt-4")
 }
-var hola_kazu = function(){
-    console.log("HOLA MUNDO KAZU")
-}
+
 
 var main = function(){
 
