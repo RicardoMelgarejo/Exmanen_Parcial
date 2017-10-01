@@ -1,0 +1,15 @@
+html,body, .pantalla{
+    width: 100%;
+    height: 100%;
+    background: #7ED47E;
+}
+
+.login{
+    border: 1px solid black;
+    width: 500px;
+    height: 350px;
+    background: white;
+}
+.l_text{
+    background: rgba(221, 220, 220, 0.51);
+}
