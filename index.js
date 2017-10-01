@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 var no_coin = function(){
     
@@ -17,3 +18,5 @@ var main = function(){
 }
 
 window.onload = main;
+=======
+>>>>>>> parent of 77c26ae... login v1.2
